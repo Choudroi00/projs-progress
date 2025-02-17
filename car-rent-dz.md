@@ -1,6 +1,6 @@
 # Car rent Dz 
 ## Requirements and functionalities 
-- [ ] core system functionalities:
+- [x] core system functionalities:
     - [ ] Geo-location system integration
     - [ ] User logs as stats
     - [ ] Realtime Notfification broadcasting,
