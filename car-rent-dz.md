@@ -3,9 +3,10 @@
 - [ ] core system functionalities:
     - [ ] Geo-location system integration
     - [ ] User logs as stats
-    - [ ] Notfification broadcasting
+    - [ ] Realtime Notfification broadcasting,
     - [ ] User docs management
-    - [ ] (not in contract) Payment integration 
+    - [ ] (not in contract) auto-Payment integration
+    - [ ] (not in contract - new) referral system 
 - [ ] particular user functionalities:
     - [ ] Auth options integration
     - [ ] Listing
@@ -22,9 +23,40 @@
         - [ ] rating
         - [ ] car-type
         - [ ] (notin contract) transmission type
-    - [ ] Reservation management 
+    - [ ] Reservation management
+        - [ ] (not in contract) price proposal -inDrive like feature
+        - [ ] (not in contract) nssit bsah kanet option mliha 
+    - [ ] 
 - [ ] Agency Owner
+    - [ ] user Auth and profile
+    - [ ] Main Dashboard with rich interface . including monthly revenu - idle/free - (not in contract) full month/week calander view   
+    - [ ] base CRM
+        - [ ] manage outbound customers 
+        - [ ] manage inbound customers
+        - [ ] customer booking documents management
+        - [ ] customer-related documents management 
+    - [ ] Fleet management
+        - [ ] Categories-like feature
+        - [ ] Vehicle meta-data options - including tarifs spent - hits number - rating - (not in contract) comments 
+        - [ ] inMarket, inSite rules
+        - [ ] inbound booking optons . including custom pricing 
+        - [ ] outbound booking rules . including availability rules - dynamic pricing rules -
+    - [ ] Payment management
+        - [ ] withdrawal
+        - [ ] inbound transactions
+        - [ ] outbound transactions
+        - [ ] system transactions
+        - [ ] subscrptions/comissions 
+        
 - [ ] Admin - pseudo-admin
+    - [ ] main dash
+    - [ ] users management
+    - [ ] agencies management
+    - [ ] payment management
+        - [ ] payment method
+        - [ ] payment flow, approval and so on
+        - [ ] transactions of all kinds 
+    - [ ] (not in contract) support team system 
       
 ### Car Reservation Status Flow
 
